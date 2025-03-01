@@ -8,9 +8,7 @@ Neste projeto, explorei os conceitos básicos de versionamento de código usando
 
 * Inicializar um repositório Git
 * Adicionar, commitar e enviar alterações para o GitHub
-* Criar e gerenciar branches
-* Realizar merges e resolver conflitos
-* Colaborar em projetos usando pull requests
+* Resolver conflitos
 
 ## Conteúdo
 
