@@ -24,4 +24,4 @@ O repositório contém os seguintes arquivos:
 Para clonar este repositório, execute o seguinte comando:
 
 ```bash
-git clone [https://github.com/dolthub/dolt](https://github.com/dolthub/dolt)
+git clone git@github.com:als-menezes/Desafio_DIO.git
